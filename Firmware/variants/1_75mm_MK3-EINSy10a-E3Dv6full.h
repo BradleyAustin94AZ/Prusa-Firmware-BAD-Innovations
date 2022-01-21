@@ -541,6 +541,9 @@
 #define FLEX_PREHEAT_HOTEND_TEMP 240
 #define FLEX_PREHEAT_HPB_TEMP 50
 
+#define NYLONG_PREHEAT_HOTEND_TEMP 260
+#define NYLONG_PREHEAT_HPB_TEMP 60
+
 /*------------------------------------
  THERMISTORS SETTINGS
  *------------------------------------*/
